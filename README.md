@@ -1,3 +1,7 @@
+### POINTS: 2
+### KEY: Met minimum requirements for points. Looks like you were going for challenge, but didn't quite get there.
+### Should probably use CASCADE delete option so bloggers posts get deleted if blogger deleted
+
 # Django Authentication CW
 
 ### Exercise 1:
